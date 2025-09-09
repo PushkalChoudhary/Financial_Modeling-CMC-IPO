@@ -1,0 +1,5 @@
+Kindly turn on iterative calculation in excel for model to work properly.
+
+
+STEPS:
+Go to File > Options > Formulas and select the Enable iterative calculation check box.
