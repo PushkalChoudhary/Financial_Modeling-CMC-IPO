@@ -18,7 +18,7 @@ The financial model was built to achieve the following objectives:
 
 ---
 
-## 🛠 Model Structure
+##  Model Structure
 The Excel model is an integrated workbook composed of interconnected sheets:
 
 - **Assumptions** – key input variables: growth rates, costs, tax rates, WACC, terminal growth.  
